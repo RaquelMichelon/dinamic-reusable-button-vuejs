@@ -1,4 +1,4 @@
-# t
+# Dinamic and reusable Button Component in Vuejs 3
 
 ## Project setup
 ```
